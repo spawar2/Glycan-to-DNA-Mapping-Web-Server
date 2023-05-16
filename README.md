@@ -13,3 +13,10 @@ INSTRUCTIONS FOR USAGE
 4. Put your sequence in following example format: GlcNAc b1-4 ( GlcNAc b1-2 Man a1-3 ) ( Man a1-6 ) Man b1-4 GlcNAc b1-4 ( Fuc a1-6 ) GlcNAc 
 Contact for server and program queries: Shrikant Pawar (Admin), spawar2@gsu.edu (Email), 1-404-431-0213 (Phone) 
 Copyrights (2018): Georgia State University: Dept of Chemistry
+
+![Main_Page](https://github.com/spawar2/Glycan-to-DNA-Mapping-Web-Server/assets/25118302/3ac8ebd1-a848-4405-acb7-0b53ea1dacc7)
+
+![Results](https://github.com/spawar2/Glycan-to-DNA-Mapping-Web-Server/assets/25118302/37719a08-8462-4135-8db1-80ab9ce28d71)
+
+![Screen Shot 2018-04-04 at 10 24 34 PM](https://github.com/spawar2/Glycan-to-DNA-Mapping-Web-Server/assets/25118302/cb36471e-0163-40bc-8324-4dc52aea4983)
+
