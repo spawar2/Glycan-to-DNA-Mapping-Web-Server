@@ -1,8 +1,8 @@
 # Glycan-to-DNA-Mapping-Web-Server
 
 
-Paper Link: https://www.biorxiv.org/content/10.1101/2020.03.30.017012v1
-Website hosted at: http://131.96.145.142:8000/cgi-bin/form.py
+[Paper Link:](https://www.biorxiv.org/content/10.1101/2020.03.30.017012v1)
+[Website hosted at:](http://131.96.145.142:8000/cgi-bin/form.py)
 
 Georgia State University Glycan to DNA Mapping Web Server
 
