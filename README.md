@@ -1,4 +1,4 @@
-# Glycan-to-DNA-Mapping-Web-Server
+# Glycan-to-DNA-Mapping-Web-Server collaboration with Dr. Shukkor, Georgia State University 
 [Python]
 
 [Paper Link:](https://www.biorxiv.org/content/10.1101/2020.03.30.017012v1)
