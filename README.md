@@ -4,7 +4,8 @@
 https://csds.gsu.edu/
 [Paper Link:](https://www.biorxiv.org/content/10.1101/2020.03.30.017012v1).
 [Website hosted at:](http://131.96.145.142:8000/cgi-bin/form.py)
-
+†††††
+†Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 Georgia State University Glycan to DNA Mapping Web Server.
 
 INSTRUCTIONS FOR USAGE 
