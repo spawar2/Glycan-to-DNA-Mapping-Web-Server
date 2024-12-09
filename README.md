@@ -1,5 +1,5 @@
 # Glycan-to-DNA-Mapping-Web-Server collaboration with Dr. Shukkor, Georgia State University, Atlanta, United States of America (USA).
-[Python]. December, 9, 2024.
+[Python]. Date created/updated: December, 9, 2024.
 <img width="409" alt="Biorxiv" src="https://github.com/spawar2/Glycan-to-DNA-Mapping-Web-Server/assets/25118302/d5660a1d-3ddf-42e1-a419-148cf056fb99">
 https://csds.gsu.edu/
 [Paper Link:](https://www.biorxiv.org/content/10.1101/2020.03.30.017012v1).
