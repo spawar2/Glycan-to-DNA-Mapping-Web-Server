@@ -7,6 +7,7 @@ https://csds.gsu.edu/
 †††††
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 Georgia State University Glycan to DNA Mapping Web Server.
+![download2](https://github.com/user-attachments/assets/3156d49e-ca3f-4b0a-b39f-867282fd75f6)
 
 INSTRUCTIONS FOR USAGE 
 1. Minimum length of sequence should be 70 letter. 
